@@ -6,4 +6,4 @@ The city of Boulder is home to hundreds of trees of varying species. As with any
 ## Dataset ([link](https://web.archive.org/web/20170428050251/https://bouldercolorado.gov/open-data/city-of-boulder-public-trees/))
 We used the 2015 version of the Boulder Public Trees dataset.  This dataset contains information about the location and type of trees in the city of Boulder.  We are using this version instead of the most recent version because it also contains information about the condition of the trees.  The condition takes on one of six values (dead, very poor, poor, fair, good, and excellent) which we will represent as a scale from 1 to 6.
 
-# Please refer to "Trees_Project.pdf" for the full writeup of this project. Thanks for viewing!
+### Please refer to "Trees_Project.pdf" for the full writeup of this project. Thanks for viewing!
